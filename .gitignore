@@ -5,3 +5,5 @@
 .bundle
 .yardoc
 Gemfile.lock
+/test/output/
+/test/output_java/
